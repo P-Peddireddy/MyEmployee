@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "248025619084",
+    "firebase_url": "https://contact-bb046-default-rtdb.firebaseio.com",
+    "project_id": "contact-bb046",
+    "storage_bucket": "contact-bb046.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:248025619084:android:18291816391788cfb2f9a9",
+        "android_client_info": {
+          "package_name": "com.pratyusha.myemp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "248025619084-840ja1vjvv43brpl8ktnf6j2l3r4ns8b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcmbWqyYcEGiGxqxPhtYtkiIm7-WDKV0I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "248025619084-840ja1vjvv43brpl8ktnf6j2l3r4ns8b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
