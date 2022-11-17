@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="5dp"
+    app:cardCornerRadius="4dp"
+    app:cardElevation="3dp">
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="60dp"
+        android:weightSum="1.1"
+        android:orientation="horizontal">
+
+
+<LinearLayout
+    android:layout_width="0dp"
+    android:layout_weight="0.5"
+    android:layout_height="wrap_content"
+    android:layout_marginRight="5dp"
+    android:layout_gravity="center"
+    android:gravity="center"
+    android:orientation="vertical">
+        <!--text view for Contact name-->
+        <TextView
+            android:id="@+id/tvEmpoyeeName"
+            style="@style/stTextViewLabel"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            />
+    <!--text view for Contact Number-->
+    <TextView
+        android:id="@+id/tvDepartment"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        style="@style/stCustomTextView" />
+</LinearLayout>
+
+        <ImageView
+            android:id="@+id/imgEdit"
+            android:layout_width="0dp"
+            android:layout_weight="0.2"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:src="@drawable/ic_baseline_edit_24"
+            />
+        <TextView
+            android:id="@+id/tvEmpoyeeBasePoint"
+            style="@style/stCustomTextView"
+            android:layout_width="0dp"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:layout_weight="0.4"
+            android:layout_height="wrap_content"
+            />
+
+
+    </LinearLayout>
+
+</androidx.cardview.widget.CardView>
