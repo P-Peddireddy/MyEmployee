@@ -34,5 +34,18 @@
     <string name="phone_book">Employee Report </string>
     <string name="addBasePont">Base Point</string>
 
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="login">LOGIN</string>
+    <string name="btn_forget_password">Forget Password</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="action_sign_up_short">Sign up</string>
+    <string name="btn_link_to_login">Already registered.Login Me!</string>
+    <string name="lbl_forget_password">Forget Password</string>
+    <string name="forgot_password_msg">We just need your registered to send link</string>
+    <string name="btn_reset_password">Reset Password</string>
+    <string name="btn_back"><![CDATA[<< Back]]></string>
+    <string name="minimum_pass">Password To Short</string>
+    <string name="auth_failed">Authentication Failed</string>
 
 </resources>
