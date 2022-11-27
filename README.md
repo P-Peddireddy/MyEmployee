@@ -1,4 +1,5 @@
-# Capstone Project
-#Prathyusha Peddireddy - A00245208
-#Pruthvi Sai Korupu - A00245392
-# Mrudula Pavuluru - A00245488
+# ContactApp
+-Final Project
+-Group project
+Rushabh  Shah  -  A00240755
+David Bankole Abel  -  A00236512
